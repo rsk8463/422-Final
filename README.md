@@ -17,6 +17,7 @@ You need node version 22.15.0
 - jest
 
 ## How to use the Container
+- build the container: docker-compose build
 - run the command: docker-compose up
 
 ## Notes
