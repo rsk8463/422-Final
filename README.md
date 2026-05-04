@@ -17,6 +17,8 @@ You need node version 22.15.0
 - jest
 
 ## How to use the Container
-- run the command: docket-compose up
+- build the container: docker-compose build
+- run the command: docker-compose up
 
 ## Notes
+- accidentally did not put any code in repo to begin with, and then after doing the entire exam in main branch I ran "git branch -M main" becuase none of the code was able to be pushed into the code becuase there was nothing in the main branch... sorry I dont know if I explained that correctly. 
